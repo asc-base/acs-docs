@@ -23,6 +23,10 @@ export default defineConfig({
           { text: "Server", link: "/service/server" },
         ],
       },
+      {
+        text: "POSN",
+        link: "/service/posn",
+      },
     ],
 
     sidebar: {
